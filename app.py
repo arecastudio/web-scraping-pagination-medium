@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 import requests,csv
 from urllib.parse import urlparse
 
-#url="https://www.nationalcentrefordiversity.com/home/national-patrons-network"
 url2="https://www.hrdsummit.com/speaker-partners"
 url3="https://www.hrdsummit.com/speaker-partners/10"
 
